@@ -23,7 +23,7 @@
   </repository>
   <snapshotRepository>
     <id>snapshots</id>
-    <!-- CHANGE HERE by your team nexus server -->
+    <!-- CHANGE HERE by your team nexus server yvgvjgvj-->
     <url>file:////var/lib/jenkins/myartifacts</url>
   </snapshotRepository>
 </distributionManagement>
