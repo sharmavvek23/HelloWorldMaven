@@ -24,7 +24,7 @@
   <snapshotRepository>
     <id>snapshots</id>
     <!-- CHANGE HERE by your team nexus server -->
-    <url>http://35.175.175.197:8081/repository/maven-snapshots/</url>
+    <url>file:////var/lib/jenkins/myartifacts</url>
   </snapshotRepository>
 </distributionManagement>
 
