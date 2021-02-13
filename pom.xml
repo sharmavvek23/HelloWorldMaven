@@ -20,15 +20,11 @@
 <!-- CHANGE HERE by your team nexus server -->
 <url>http://52.87.208.20:8081/repository/maven-releases/
   </url>
-  <username>nexus</username>
-  <password>12345</password>
 </repository>
 <snapshotRepository>
 <id>snapshots</id>
 <!-- CHANGE HERE by your team nexus server snapshots -->
   <url>http://52.87.208.20:8081/repository/maven-snapshots/</url>
-  <username>nexus</username>
-  <password>12345</password>
 </snapshotRepository>
 </distributionManagement>
 
